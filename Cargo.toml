@@ -1,6 +1,6 @@
 [package]
 edition = "2018"
-name = "v85xxp_pac"
+name = "v85xxp-pac"
 version = "0.1.0"
 authors = ["Dmitry Trofimov <siberianrednecks@gmail.com>"]
 description = "Device support crate for V85XXP devices"
